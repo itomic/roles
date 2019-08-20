@@ -1,6 +1,6 @@
 {
-    "name": "nigelheap/roles",
-    "description": "Powerful package for handling roles and permissions in Laravel 5.3 and 5.6",
+    "name": "itomic/roles",
+    "description": "Powerful package for handling roles and permissions in Laravel 5.3 to 5.6",
     "keywords": ["roles", "permissions", "acl", "auth", "laravel", "illuminate"],
     "license": "MIT",
     "authors": [
